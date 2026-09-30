@@ -1,0 +1,1 @@
+{"name":"image-ai-editor","version":"1.0.0","description":"AI Image Editor","main":"worker.js","scripts":{"dev":"wrangler dev","deploy":"wrangler deploy"},"keywords":["image","editor","ai"],"author":"HeySomDev","license":"MIT"}
